@@ -87,22 +87,13 @@ export function InteractiveInfoCard({
             <div className="h-full w-full bg-gradient-to-br from-primary/30 via-primary/10 to-background" />
           )}
 
-          <div className="absolute inset-0 bg-gradient-to-t from-background via-background/50 to-transparent" />
-
+{/* 
           <div className="absolute inset-x-0 bottom-0 p-6">
-            <div className="mb-3 inline-flex items-center gap-2 rounded-full border border-primary/30 bg-background/80 px-3 py-1 text-xs font-medium text-primary backdrop-blur">
+            <div className="inline-flex items-center gap-2 rounded-full border border-primary/30 bg-background/80 px-3 py-1 text-xs font-medium text-primary backdrop-blur">
               <PlayCircle className="h-4 w-4" />
               Кликни за видео и повече информация
             </div>
-
-            <h3 className="mb-2 text-xl font-semibold text-foreground">
-              {title}
-            </h3>
-
-            <p className="line-clamp-3 text-sm leading-relaxed text-muted-foreground">
-              {details}
-            </p>
-          </div>
+          </div> */}
         </div>
       </button>
 

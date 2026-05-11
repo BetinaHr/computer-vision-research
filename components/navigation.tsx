@@ -8,9 +8,12 @@ import { ThemeToggle } from "./theme-toggle"
 const navItems = [
   { href: "#начало", label: "Начало" },
   { href: "#за-нас", label: "Какво е CV" },
+  { href: "#история", label: "История" },
+  { href: "#как-работи", label: "Как работи" },
   { href: "#технологии", label: "Технологии" },
   { href: "#приложения", label: "Приложения" },
   { href: "#демо", label: "Демо" },
+  { href: "#предизвикателства", label: "Предизвикателства" },
   { href: "#бъдеще", label: "Бъдеще" },
 ]
 
