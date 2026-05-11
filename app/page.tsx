@@ -4,6 +4,7 @@ import { AboutSection } from "@/components/about-section"
 import { TechnologiesSection } from "@/components/technologies-section"
 import { ApplicationsSection } from "@/components/applications-section"
 import { GestureDemoSection } from "@/components/gesture-demo-section"
+import { ObjectDetectionDemoSection } from "@/components/object-detection-demo-section"
 import { FutureSection } from "@/components/future-section"
 import { Footer } from "@/components/footer"
 
@@ -16,6 +17,7 @@ export default function Home() {
       <TechnologiesSection />
       <ApplicationsSection />
       <GestureDemoSection />
+      <ObjectDetectionDemoSection />
       <FutureSection />
       <Footer />
     </main>
