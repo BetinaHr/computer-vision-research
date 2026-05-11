@@ -12,6 +12,11 @@ import { TensorflowObjectDetectionDemo } from "@/components/tensorflow-object-de
 import { DemoSection } from "@/components/demo-section"
 import { FutureSection } from "@/components/future-section"
 import { Footer } from "@/components/footer"
+import { CvTasksSection } from "@/components/cv-tasks-section"
+import { VisionComparisonSection } from "@/components/vision-comparison-section"
+import { EverydayCvSection } from "@/components/everyday-cv-section"
+// import { ResourcesSection } from "@/components/resources-section"
+import { ResourcesSection } from "../components/resources-section"
 
 export default function Home() {
   return (
@@ -19,15 +24,19 @@ export default function Home() {
       <Navigation />
       <HeroSection />
       <AboutSection />
-      <HowItWorksSection />
       <HistorySection />
+      <VisionComparisonSection />
+      <HowItWorksSection />
+      {/* <CvTasksSection /> */}
       <TechnologiesSection />
       <ApplicationsSection />
+      <EverydayCvSection />
       <GestureDemoSection />
       {/* <ObjectDetectionDemoSection /> */}
       <TensorflowObjectDetectionDemo />
       <DemoSection />
       <ChallengesSection />
+      <ResourcesSection />
       <FutureSection />
       <Footer />
     </main>

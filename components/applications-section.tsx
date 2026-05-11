@@ -13,7 +13,7 @@ const applications = [
     title: "Автономни превозни средства",
     description:
       "Самоуправляващите се автомобили използват камери и сензори за откриване на пътни знаци, пешеходци и други превозни средства. Tesla, Waymo и други компании инвестират милиарди в тази технология.",
-    visual: "/images/applications/autonomous.svg",
+    visual: "https://auto.aicurious.io/autonomous.gif",
     color: "from-blue-500/20 to-cyan-500/20",
   },
   {
@@ -21,7 +21,7 @@ const applications = [
     title: "Медицинска диагностика",
     description:
       "AI системи анализират рентгенови снимки, МРТ и CT сканове за откриване на тумори, фрактури и други аномалии. Точността често надвишава тази на опитни радиолози.",
-    visual: "/images/applications/medical.svg",
+    visual: "https://prismic-io.s3.amazonaws.com/encord/a2198e60-0419-42f9-b698-e11fe0d103e1_3605.gif",
     color: "from-emerald-500/20 to-green-500/20",
   },
   {
@@ -29,7 +29,7 @@ const applications = [
     title: "Сигурност и наблюдение",
     description:
       "Системи за разпознаване на лица, анализ на поведение и откриване на аномалии се използват в обществени пространства, летища и финансови институции.",
-    visual: "/images/applications/security.svg",
+    visual: "https://staging.ml2grow.com/wp-content/uploads/2021/09/1_SmOSiZ97_dWQlJ9WCT13Wg.gif",
     color: "from-amber-500/20 to-orange-500/20",
   },
   {
@@ -37,7 +37,7 @@ const applications = [
     title: "Индустриална автоматизация",
     description:
       "Роботи с визуално възприятие извършват качествен контрол, сортиране и сглобяване на продукти с прецизност и скорост, недостижими за човека.",
-    visual: "/images/applications/industry.svg",
+    visual: "https://www.3ds.com/assets/invest/2021-09/mao-5-ci-mgp-gif-ia-472x293.gif",
     color: "from-red-500/20 to-rose-500/20",
   },
   {
@@ -45,7 +45,7 @@ const applications = [
     title: "Търговия и маркетинг",
     description:
       "Виртуално изпробване на дрехи, анализ на клиентско поведение в магазини и автоматично етикетиране на продукти революционизират ритейл индустрията.",
-    visual: "/images/applications/retail.svg",
+    visual: "https://hqsoftwarelab.com/wp-content/uploads/2021/08/VR-fitting-room-9-min.gif",
     color: "from-pink-500/20 to-fuchsia-500/20",
   },
   {
@@ -53,7 +53,7 @@ const applications = [
     title: "Развлечения и AR/VR",
     description:
       "Проследяване на движения, жестове и лицеви изражения за потапящи гейминг изживявания и приложения за добавена реалност.",
-    visual: "/images/applications/ar-vr.svg",
+    visual: "https://substackcdn.com/image/fetch/$s_!Qaqb!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa13d8c6d-c1f5-4d46-b82a-3ad025035fa8_1024x512.gif",
     color: "from-indigo-500/20 to-violet-500/20",
   },
 ]
