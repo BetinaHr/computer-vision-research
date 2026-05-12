@@ -33,7 +33,7 @@ const challenges = [
 
 export function ChallengesSection() {
   return (
-    <section id="challenges" className="py-24">
+<section id="предизвикателства" className="scroll-mt-28 py-24">
       <div className="container mx-auto px-4">
         <div className="mx-auto mb-14 max-w-3xl text-center">
           <span className="mb-3 inline-block rounded-full bg-primary/10 px-4 py-2 text-sm font-medium text-primary">
